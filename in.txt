@@ -1,0 +1,12 @@
+3
+primero.html
+3
+hola mundo perro
+segundo.html
+4
+hola perro gato auto
+tercero.html
+3
+perro auto casa
+5
+gato perro mundo edificio hotel
