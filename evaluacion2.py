@@ -18,7 +18,7 @@ Descripción:
         - Código documentado extensamente
 
 Uso:
-    python3 indice_invertido.py <N_PROCESOS> < in.txt
+    python evaluacion2.py <N_PROCESOS> < in.txt
 """
 
 import multiprocessing
